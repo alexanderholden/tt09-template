@@ -36,14 +36,14 @@ pinout:
   uo[7]: "Z8"
 
   # Bidirectional pins
-  uio[0]: " "
-  uio[1]: " "
-  uio[2]: " "
-  uio[3]: " "
-  uio[4]: " "
-  uio[5]: " "
-  uio[6]: " "
-  uio[7]: " "
+  uio[0]: "Q"
+  uio[1]: "W"
+  uio[2]: "E"
+  uio[3]: "R"
+  uio[4]: "T"
+  uio[5]: "Y"
+  uio[6]: "U"
+  uio[7]: "I"
 
 # Do not change!
 yaml_version: 6
